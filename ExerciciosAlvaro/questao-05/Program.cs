@@ -136,8 +136,8 @@ if (!pagamentoParceladoConvertido)
     Console.WriteLine($"Parcela: {valorParcela:C}");
 enum FormaPagamento
 {
-    Pix = 1,
-    Dinheiro = 4,
-    Credito = 3,
-    Debito = 2
+    Pix,
+    Dinheiro,
+    Credito,
+    Debito
 }
