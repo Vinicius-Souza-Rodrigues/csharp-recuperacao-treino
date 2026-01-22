@@ -1,0 +1,15 @@
+C:\Users\Vinicius\Downloads\csharp-recuperacao-treino\ExerciciosAlvaro\questao-08\obj\Debug\net10.0\questao-08.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vinicius\Downloads\csharp-recuperacao-treino\ExerciciosAlvaro\questao-08\obj\Debug\net10.0\questao-08.AssemblyInfoInputs.cache
+C:\Users\Vinicius\Downloads\csharp-recuperacao-treino\ExerciciosAlvaro\questao-08\obj\Debug\net10.0\questao-08.AssemblyInfo.cs
+C:\Users\Vinicius\Downloads\csharp-recuperacao-treino\ExerciciosAlvaro\questao-08\obj\Debug\net10.0\questao-08.csproj.CoreCompileInputs.cache
+C:\Users\Vinicius\Downloads\csharp-recuperacao-treino\ExerciciosAlvaro\questao-08\obj\Debug\net10.0\questao-08.sourcelink.json
+C:\Users\Vinicius\Downloads\csharp-recuperacao-treino\ExerciciosAlvaro\questao-08\bin\Debug\net10.0\questao-08.exe
+C:\Users\Vinicius\Downloads\csharp-recuperacao-treino\ExerciciosAlvaro\questao-08\bin\Debug\net10.0\questao-08.deps.json
+C:\Users\Vinicius\Downloads\csharp-recuperacao-treino\ExerciciosAlvaro\questao-08\bin\Debug\net10.0\questao-08.runtimeconfig.json
+C:\Users\Vinicius\Downloads\csharp-recuperacao-treino\ExerciciosAlvaro\questao-08\bin\Debug\net10.0\questao-08.dll
+C:\Users\Vinicius\Downloads\csharp-recuperacao-treino\ExerciciosAlvaro\questao-08\bin\Debug\net10.0\questao-08.pdb
+C:\Users\Vinicius\Downloads\csharp-recuperacao-treino\ExerciciosAlvaro\questao-08\obj\Debug\net10.0\questao-08.dll
+C:\Users\Vinicius\Downloads\csharp-recuperacao-treino\ExerciciosAlvaro\questao-08\obj\Debug\net10.0\refint\questao-08.dll
+C:\Users\Vinicius\Downloads\csharp-recuperacao-treino\ExerciciosAlvaro\questao-08\obj\Debug\net10.0\questao-08.pdb
+C:\Users\Vinicius\Downloads\csharp-recuperacao-treino\ExerciciosAlvaro\questao-08\obj\Debug\net10.0\questao-08.genruntimeconfig.cache
+C:\Users\Vinicius\Downloads\csharp-recuperacao-treino\ExerciciosAlvaro\questao-08\obj\Debug\net10.0\ref\questao-08.dll
