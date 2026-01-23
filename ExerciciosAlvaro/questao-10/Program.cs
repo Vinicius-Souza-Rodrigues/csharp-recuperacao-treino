@@ -1,14 +1,14 @@
-﻿string nomeFuncionario = "";
-decimal salarioBruto = 0m;
-decimal horasExtras = 0m;
-decimal valorHoraExtra = 0m;
-int valeTransporte = 0;
+﻿string nomeFuncionario;
+decimal salarioBruto ;
+decimal horasExtras;
+decimal valorHoraExtra;
+int valeTransporte;
 bool valeTransporteCovertido = false;
-decimal calculoBruto = 0m;
-decimal valorInss = 0m;
-decimal valorValeTransporte = 0m;
-decimal valorLiquido = 0m;
-decimal valorTotalHorasExtras = 0m;
+decimal calculoBruto;
+decimal valorInss;
+decimal valorValeTransporte = 0;
+decimal valorLiquido;
+decimal valorTotalHorasExtras;
 
 Console.WriteLine("Digite o nome do funcionario: ");
 nomeFuncionario = Console.ReadLine();
@@ -36,16 +36,15 @@ while (!int.TryParse(Console.ReadLine(), out valeTransporte))
 
 valorTotalHorasExtras = horasExtras * valorHoraExtra;
 
-if (valeTransporte == 1)
-    valeTransporteCovertido = true;
-else
-    valeTransporteCovertido = false;
 
 calculoBruto = salarioBruto + valorTotalHorasExtras;
-  
+
 valorInss = calculoBruto * 0.08m;
 
-valorValeTransporte = calculoBruto * 0.06m;
+if (valeTransporte == 1) {
+    valeTransporteCovertido = true;
+    valorValeTransporte = calculoBruto * 0.06m;
+}
 
 valorLiquido = calculoBruto - valorInss - valorValeTransporte;
 
