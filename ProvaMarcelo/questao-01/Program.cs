@@ -65,7 +65,7 @@ Console.WriteLine($"Produto com menor estoque: {produtoMenorQuantidade}");
 
 string ValidarString(string nome)
 {
-    while (string.IsNullOrWhiteSpace(nome))
+    while (string.IsNullOrWhiteSpace(nome) || nome.Any(char.IsNumber))
     {
         Console.WriteLine("O valor inserido é invalido ou não pode ser convertido, tente novamente: ");
         nome = Console.ReadLine();
